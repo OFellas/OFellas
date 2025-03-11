@@ -40,3 +40,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" title = "MongoDB" alt = "MongoDB" width = "40" height = "40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title = "MySQL" alt = "MySQL" width = "40" height = "40"/>
 </div>
+
+---
+<h3>📊 GitHub Stats</h3>
+
+![OFellas's GitHub stats](https://github-readme-stats.vercel.app/api?username=OFellas&theme=tokyonight&show_icons=true)
+![OFellas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OFellas&theme=tokyonight&hide_border=true)
