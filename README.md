@@ -7,14 +7,13 @@
 - 👨‍💻 "Estuda & Estuda"
 
 ---
-📱 Redes Sociais
----
+<h3>📱 Redes Sociais</h3>
+
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adailton-felipe-de-oliveira-086a1b231/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/felip3_0liveir4/)
   
 ---
-🖥️ Conhecimentos
----
+<h3>🖥️ Conhecimentos</h3>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" title = "Adobe Ilustrator" alt = "Adobe Ilustrator" width = "40" height = "40"/>
